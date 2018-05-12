@@ -1,0 +1,38 @@
+_repo: Riita-asiaIlveilys-yhdess--n-yt-ksess-_26926
+_version: 0.1.0
+alternative_title: Der Prozess. Finnish
+contributor:
+  translator:
+    agent_name: Ahlqvist, August
+    alias: Oksanen, A.
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '25127'
+    url: http://www.gutenberg.org/2009/agents/25127
+    wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benedix, Roderich
+    alias: Benedix, Julius Roderich
+    birthdate: 1811
+    deathdate: 1873
+    gutenberg_agent_id: '32338'
+    url: http://www.gutenberg.org/2009/agents/32338
+    wikipedia: http://en.wikipedia.org/wiki/Roderich_Benedix
+description: ''
+gutenberg_issued: '2008-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26926'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama (Comedy) -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Riita-asia: Ilveilys yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/26926
